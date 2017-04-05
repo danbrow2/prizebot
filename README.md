@@ -1,0 +1,2 @@
+# prizebot
+Spark Prize Bot
